@@ -7,13 +7,7 @@ This assignment will test your skills in implementing SASS/SCSS for styling a po
 
 ### 1. SASS/SCSS Implementation
 - Replace all inline CSS in the HTML with your own SASS/SCSS files
-- Organize your SASS files using the 7-1 architecture pattern (or a simplified version):
-  - abstracts/ (variables, mixins, functions)
-  - base/ (typography, reset)
-  - components/ (buttons, forms, cards)
-  - layout/ (header, navigation, grid system)
-  - pages/ (specific styles for pages/sections)
-  - main.scss (import file)
+
 - Use at least 3 SASS features:
   - Variables for colors, fonts, spacing
   - Nesting for parent-child relationships
